@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Eazybank cards related local APIs"
+  contactDetails:
+    name: "Luke Glanton - Developer"
+    email: "luke@eazybank.com"
+  onCallSupport:
+    - (111) 111-1234
+    - (111) 123-1345

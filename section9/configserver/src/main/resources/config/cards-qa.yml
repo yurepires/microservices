@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Eazybank cards related QA APIs"
+  contactDetails:
+    name: "Tyler Rake - QA Lead"
+    email: "tyler@eazybank.com"
+  onCallSupport:
+    - (777) 784-3765
+    - (777) 733-8371

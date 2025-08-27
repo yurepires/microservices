@@ -84,3 +84,10 @@ resilience4j.retry:
         - java.lang.NullPointerException
       retry-exceptions: #retry the request only if this exception(s) occurs (so, we will not need the ignore-exception)
         - java.util.concurrent.TimeoutException
+
+resilience4j.ratelimiter:
+  configs:
+    default:
+      timeout-duration: 1000
+      limit-refresh-period: 5000
+      limit-for-period: 1

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Eazybank cards related prod APIs"
+  contactDetails:
+    name: "Reiner Braun - Product Owner"
+    email: "reiner@eazybank.com"
+  onCallSupport:
+    - (256) 513-4829
+    - (922) 442-0384
